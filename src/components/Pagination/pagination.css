@@ -1,0 +1,5 @@
+ .active:hover {
+      font-weight: bold;
+      background: green;
+      color: white;
+    }

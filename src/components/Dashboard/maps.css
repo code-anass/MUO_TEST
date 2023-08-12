@@ -1,0 +1,41 @@
+.esri-ui .esri-zoom {
+    color: red !important;
+  }
+
+ 
+
+.esri-widget--button {
+  font-size: 14px;
+  background-color: #242424;
+  color: #adadad;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: center;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: center;
+  transition: background-color 125ms ease-in-out;
+}
+.esri-widget {
+  box-sizing: border-box;
+  color: #d1d1d1;
+  font-size: 14px;
+  font-family: "Avenir Next","Helvetica Neue",Helvetica,Arial,sans-serif;
+  line-height: 1.3em;
+  background-color: #242424;
+}
+
+.esri-widget--button:active {
+  background-color: #000;
+}
+
+.esri-widget--button:hover {
+  background-color: #303030;
+  color: #ededed;
+}
+

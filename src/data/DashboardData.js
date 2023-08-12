@@ -1,0 +1,1 @@
+export const StateList = ["JOHOR", "KEDAH", "SELANGOR", "MELAKA", "PERAK", "PERLIS", "P.PINANG", "N.SEMBILAN", "TERENGGANU"]

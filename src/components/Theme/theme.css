@@ -1,0 +1,14 @@
+
+
+.tabs {
+  text-align: center;
+  width: 30%;
+  color: white;
+  border: none;
+  background-color: black;
+}
+
+.active-tabs {
+  background-color: rgb(12, 145, 240);;
+  border-bottom: 1px solid transparent;
+}

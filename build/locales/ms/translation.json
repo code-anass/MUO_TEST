@@ -1,0 +1,464 @@
+{
+  "generic": {
+    "moreDetails": "Maklumat lanjut",
+    "exploreMore": "Terokai Lagi",
+    "sun": "Ahad",
+    "mon": "Isnin",
+    "tues": "Selasa",
+    "wed": "Rabu",
+    "thurs": "Khamis",
+    "fri": "Jumaat",
+    "sat ": "Sabtu",
+    "filter":"Tapis mengikut Tahun:"
+
+  },
+  "Hero": {
+    "1": "PEMERHATIAN BANDAR MALAYSIA",
+    "2": "Analitis Spatial Untuk Masa Depan Mampan",
+    "search": "Cari",
+    "4": "Cari Set Data, Visualisasi Dll."
+  },
+  "Navbar": {
+    "1": "Rumah",
+    "2": "Tentang kita",
+    "21": "Tentang kita",
+    "22": "Modul",
+    "23": "Berita",
+    "24": "Rakan kongsi",
+    "3": "Pandangan",
+    "31": "Nasional",
+    "32": "Serantau",
+    "33": "Negeri",
+    "34": "Tempatan",
+    "4": "Tema",
+    "5": "Papan pemuka",
+    "51": "Dashboard Rebakan Bandar",
+    "52": "Dashboard Aliran Trafik",
+    "6": "Hubungi Kami",
+    "61": "Soalan Lazim",
+    "62": "Aduan dan Maklum Balas",
+    "7": "Log masuk",
+    "8": "Akaun saya"
+  },
+  "home": {
+    "hightlights": "SOROTAN",
+    "insights": "Pandangan",
+    "modules": "MODUL",
+    "themes": "TEMA",
+    "stategic_partners": "RAKAN STRATEGIK",
+    "smart_partners": "Rakan Pintar",
+    "announcements": "PENGUMUMAN"
+  },
+  "insights": {
+    "sub_title": "Gambaran dan visualisasi maklumat berkaitan perbandaran secara interaktif melalui pelbagai perspektif dan peringkat.",
+    "national": "NASIONAL",
+    "regional": "WILAYAH",
+    "state": "NEGERI",
+    "local": "TEMPATAN",
+    "national_desc": "Malaysia ialah sebuah negara Asia Tenggara yang terbahagi kepada dua wilayah: Semenanjung Malaysia dan Malaysia Timur Borneo.",
+    "regional_desc": "Malaysia terbahagi kepada enam wilayah utama iaitu Wilayah Utara, Wilayah Tengah, Wilayah Selatan, Pantai Timur, Sabah, dan Sarawak.",
+    "state_desc": "Malaysia terdiri daripada 13 negeri dan 3 wilayah persekutuan.",
+    "local_desc": "Malaysia terdiri daripada 155 pihak berkuasa tempatan. Semua pihak berkuasa bertanggungjawab ke atas kemudahan awam dan infrastruktur asas, manakala pihak berkuasa bandar secara amnya turut menyediakan perkhidmatan seperti kesihatan awam, pengurusan sisa dan perancangan bandar, dan majlis bandaran seterusnya menyediakan penguatkuasaan undang-undang."
+  },
+  "themes": {
+    "sub_title": "5 tema yang digunapakai di dalam MUO ke arah perbandaran mampan",
+    "sustainable": "Kemampanan Spatial Pembangunan",
+    "sustainable_desc": "Tema ini menekankan aspek pemantauan pembangunan fizikal lestari dengan mengambil kira kedudukan geografi setiap pembangunan. Ia termasuk elemen infrastruktur dan utiliti, mobiliti bandar, kebolehcapaian, pembangunan luar bandar, kepelbagaian bandar dan penggunaan tanah.",
+    "dynamic_balanced": "Kemakmuran Ekonomi Dinamik & Seimbang",
+    "dynamic_balanced_desc": "Tema ini akan memberi penekanan kepada aspek pemantauan pertumbuhan ekonomi di seluruh negara meliputi daya tahan dan daya saing ekonomi. Ia juga memberi tumpuan kepada pembangunan ekonomi digital dan isu keselamatan makanan yang boleh menjejaskan keseimbangan ekonomi.",
+    "livable_environment": "Persekitaran Berdaya Huni & Komuniti Inklusif",
+    "livable_environment_desc": "Bagi aspek pemantauan kesejahteraan masyarakat, ia merangkumi sub tema perancangan perumahan, pendidikan, kesihatan, keselamatan, pembangunan modal insan dan penglibatan masyarakat dalam pembangunan yang boleh meningkatkan kualiti hidup.",
+    "environment": "Kemampanan Alam Sekitar",
+    "environment_desc": "Pemantauan alam sekitar merangkumi aspek perancangan guna tanah yang mampan, pemuliharaan dan pemeliharaan alam sekitar dan sumber warisan, dan pengurusan risiko bencana yang boleh membantu dalam menangani perubahan iklim.",
+    "governance": "Tadbir Urus Perancangan yang Baik",
+    "governance_desc": "Tema tadbir urus yang baik akan merangkumi aspek pemantauan dan perancangan tadbir urus yang baik ke arah mempertingkatkan ketelusan dan akauntabiliti. Ia termasuk perundangan, pengagihan kewangan, pengurusan aset, penglibatan awam dalam aktiviti perancangan dan kapasiti sesebuah institusi."
+  },
+  "modules": {
+    "sub_title": "Modul Utama dalam Malaysia Urban Observatory (MUO)",
+    "sustainable_urban": "PEMANTAUAN DAN PELAPORAN PERBANDARAN MAMPAN",
+    "sustainable_urban_desc": "Modul yang melaporkan pencapaian pelaksanaan agenda kelestarian negara dan antarabangsa seperti Matlamat Pembangunan Lestari (SDG), Dasar Perbandaran Negara (DPN) atau Rancangan Fizikal Negara (RFN).",
+    "geo_hub": "GEOHUB",
+    "geo_hub_desc": "Hab perkongsian data yang boleh diakses. Modul ini menyediakan platform perkongsian maklumat dalam talian untuk profesional kepada pembaca umum.",
+    "dashboard": "DASHBOARD URBAN OBSERVATORY",
+    "dashboard_desc": "Platform ini menyediakan pelbagai ciri dan fungsi, termasuk geo-analitik dan dashboard pintar yang mesra pengguna dan mudah dikongsi.",
+    "city_proile": "MAKLUMAT BANDAR",
+    "city_proile_desc": "Penceritaan interaktif, dashboard dan visualisasi yang merangkumi isu perbandaran seperti penggunaan tanah dan penempatan bandar, antara lain.",
+    "research": "PENYELIDIKAN DAN PEMBANGUNAN",
+    "research_desc": "Membantu pihak berkepentingan yang pelbagai dalam melaksanakan prosedur penyelidikan dan membangunkan dan menguji model yang dikaitkan dengan penyelidikan dan pembangunan perbandaran.",
+    "decision": "SOKONGAN MEMBUAT KEPUTUSAN",
+    "decision_desc": "Membolehkan pengguna melakukan analisis dan analisis dengan mudah. Sebelum dimasukkan ke dalam analisis MUO, modul ini boleh melaraskan kriteria, model, algoritma atau formula yang digunakan dalam modul penyelidikan dan pembangunan untuk mencapai tahap ketepatan yang tinggi.",
+    "national_smart": "PLATFORM BANDAR PINTAR NEGARA",
+    "national_smart_desc": "Memudahkan dalam analisis data dan maklumat daripada pelbagai sumber untuk mencipta keputusan berasaskan data yang lebih berkesan yang dikaitkan dengan pembangunan dan pengurusan bandar.",
+    "mobile_app": "APLIKASI MUDAH ALIH",
+    "mobile_app_desc": "Perisian aplikasi MUO bagi kemudahan capaian kepada maklumat MUO melalui peranti mudah alih, seperti telefon pintar atau komputer tablet"
+  },
+  "disclaimer": {
+    "title": "PENAFIAN",
+    "message": "Semua maklumat yang diterbitkan dan terkandung di dalam laman web ini adalah untuk tujuan rujukan umum sahaja. Pihak PLANMalaysia tidak menjamin mana-mana maklumat yang terkandung di dalam laman web ini adalah lengkap, terkini atau tepat. Maklumat yang dipaparkan adalah tertakluk kepada apa-apa pertukaran tanpa sebarang notis. Bagi tujuan pengesahan maklumat, anda adalah dinasihatkan untuk membuat semakan bersama pihak PLANMalaysia Negeri atau Pihak Berkuasa Tempatan.",
+    "agree": "SETUJU"
+  },
+  "settings": {
+    "hideSidebar": "Sembunyikan Sidebar",
+    "changeFontColor": "TUKAR WARNA FONT",
+    "changeFontSize": "TUKAR SAIZ FONT",
+    "changeFontFamily": "TUKAR JENIS FONT",
+    "changeLanguage": "TUKAR BAHASA",
+    "w3c": "W3C: AKSES ORANG KURANG UPAYA",
+    "w3cGuide": "Garis Panduan "
+  },
+  "w3c": {
+    "title": " W3C : Garis Panduan Kebolehcapaian Kandungan Web (Akses Kurang Upaya )",
+    "desc1": "Portal Rasmi PLANMalaysia menyediakan kemudahan untuk capaian Orang Kurang Upaya (OKU) / Disability Access berpandukan standard W3C.",
+    "desc2": "– Web Accessibility Initiative (WAI) mengikut tatacara garis panduan Web Content Accessibility Guidelines 2.0 ."
+  },
+  "sectionA": {
+    "title": "A) PENGGUNA CACAT PENGLIHATANS",
+    "desc": "Dapatkan perisian percuma komponen (extension) ChromeVox untuk pelayar web Google Chrome <a href=https://chrome.google.com/webstore/unsupported/kgejglhpjiefppelpmljglcjbhoiplfn>di sini </a> untuk tujuan kandungan teks laman web ini dibacakan dalam bentuk bunyi (audio) percakapan ( dalam Bahasa Inggeris/English ) .",
+    "point1": "1. Sebelum anda boleh menggunakan komponen ini, anda perlu memasangnya pada Google Chrome sebagai extension dan sebelum itu harus memuat turun dan pasang (install) terlebih dahulu perisian pelayar web ( Web Browser ) Google Chrome.",
+    "point2": "2. Untuk arahan selanjutnya bagi menggunakan komponen ini,  <a href=https://support.google.com/chromebook/answer/7031755>sila klik di sini.</a>",
+    "point3": "3. Sebagai alternatif, anda juga boleh menggunakan sekurang-kurangnya satu perisian jenis Speech Engine atau Text/Screen Reader atau Text-to-speech (TTS). Speech engine adalah suara seseorang lelaki atau perempuan, yang akan bercakap dalam Bahasa Inggeris atau bahasa-bahasa lain mengikut pilihan anda. Contoh perisian lain yang boleh digunakan ialah <a href=https://support.microsoft.com/en-us/windows/complete-guide-to-narrator-e4397a0d-ef4f-b386-d8ae-c172f109bdb1> Microsoft Narrator </a>yang tersedia dalam Windows 8/7/Vista dan komponen (Chrome extension) <a href=http://www.microsurf.org/>Microsoft.</a>"
+  },
+  "sectionB": {
+    "title": "B) PENGGUNA BUTA WARNA",
+    "desc": "Bagi pengguna buta warna, terdapat beberapa pilihan warna disediakan di ruangan atas setiap halaman Portal Rasmi Malaysia Urban Observatory. Pengguna boleh memilih warna daripada pilihan warna yang disediakan dan warna tulisan pada Portal Rasmi Malaysia Urban Observatory akan berubah mengikut pilhan anda."
+  },
+  "sectionC": {
+    "title": "C) PENGGUNA WARGA TUA ATAU MEMPUNYAI RABUN DEKAT / JAUH",
+    "desc": "Bagi kategori ini, Portal Rasmi Malaysia Urban Observatory menyediakan kemudahan pilihan saiz teks yang berbeza. Pilihan saiz teks tersebut dipaparkan di ruangan atas setiap halaman Portal Rasmi PLANMalaysia. Pengguna boleh memilih samada untuk memilih saiz teks yang lebih besar atau lebih kecil, mengikut kesesuaian."
+  },
+  "sectionD": {
+    "title": "D) PENGGUNA CACAT ANGGOTA TANGAN DAN KAKI ATAU MASALAH KAWALAN MOTOR SARAF / DERIA SENTUHAN (MOTOR AND DEXTERITY IMPAIRMENTS)",
+    "point1": "1. Portal ini boleh dilayari dengan tanpa menggunakan peranti tetikus (mouse), iaitu hanya menggunakan papan kekunci (keyboard) dengan menekan butang Tab dan anak panah (arrows) untuk bergerak di sekitar ruang dan elemen antaramuka laman web dan menekan butang Enter atau Spacebar untuk memilih satu elemen antaramuka untuk berinteraksi atau sebagai pautan ke halaman kandungan laman web yang lain.",
+    "point2": "2. Portal ini juga boleh dilayari dengan menggunakan peranti tetikus (mouse) sahaja, dibantu dengan perisian tersedia",
+    "point3": "3. Portal ini juga boleh dilayari dan diakses secara bunyi (audio) menggunakan alat microphone, dalam bentuk arahan percakapan Bahasa Inggeris/English dengan cara jenis perisian (tools) Speech Recognition atau sekurang-kurangnya Speech-to-text menggunakan Teknologi Alat Bantuan ( assistive technology ) seperti perisian Windows Speech Recognition dan perisian komponen (Chrome extension)"
+  },
+  "sectionE": {
+    "title": "Rujukan / Links :",
+    "point1": "1) W3C , Standards , Web Design and Applications , Accessibility : <a href=http://www.w3.org/standards/webdesign/accessibility/>  http://www.w3.org/standards/webdesign/accessibility</a>",
+    "point2": "2) W3C , Web Accessibility :<a href=http://www.w3.org/WAI/intro/accessibility.php>htttp://www.w3.org/WAI/intro/accessibility.php</a>",
+    "point3": "3) W3C , Web Accessibility Initiative (WAI) :<a href=http://www.w3.org/WAI/WCAG20/glance/>http://www.w3.org/WAI/WCAG20/glance/</a>",
+    "point4": "4) W3C , WAI , WCAG 2.0 document : <a href=http://www.w3.org/TR/2008/REC-WCAG20-20081211/>http://www.w3.org/TR/2008/REC-WCAG20-20081211/</a>"
+  },
+  "footerDisclaimer": {
+    "desc": "PLANMalaysia dan MUO tidak bertanggungjawab terhadap sebarang kehilangan atau kerosakan yang disebabkan oleh penggunaan maklumat dalam portal ini."
+  },
+  "footerTerms": {
+    "title": "Terma dan syarat",
+    "desc1": "Jika anda mengakses laman web ini, ia adalah pengakuan dan perjanjian bahawa anda terikat dengan syarat ini dan dengan ini, perjanjian dibentuk antara anda sebagai pelanggan, dan kami, untuk akses dan/atau penggunaan laman web ini.",
+    "desc2": "Syarat ini akan menggantikan mana-mana syarat di atas yang anda terima atau akses melalui halaman web ini. Penggunaan berterusan dan/atau akses anda kepada perkhidmatan akan membentuk penerimaan syarat ini."
+  },
+  "responsibilty": {
+    "title": "TANGGUNGJAWAB",
+    "desc": "Anda dengan jelas memahami dan bersetuju bahawa kami tidak akan bertanggungjawab ke atas sebarang kerugian, langsung atau tidak langsung, berkaitan atau istimewa, berbangkit atau teladan, termasuk tetapi tidak terhad kepada kerugian dalam bentuk kehilangan keuntungan, amanah atau kerugian tidak ketara yang lain akibat daripada:",
+    "point1": " Penggunaan atau ketidakupayaan untuk menggunakan perkhidmatan",
+    "point2": "Kos mendapatkan barangan dan perkhidmatan untuk penggantian selepas pembelian sebarang barangan, data, maklumat atau perkhidmatan atau mesej yang diterima atau transaksi yang dibuat melalui atau daripada laman web ini",
+    "point3": "Akses atau pengubahan penghantaran atau data anda tanpa kebenaran",
+    "point4": "Kenyataan atau tindakan pihak ketiga di laman web ini    ",
+    "point5": " Hal-hal lain yang berkaitan dengan laman web ini    "
+  },
+  "links": {
+    "title": "PAUTAN",
+    "desc": "Kami mungkin menyediakan pautan ke laman web lain. Halaman web ini dimiliki dan dikawal oleh pihak ketiga dan oleh itu, kami tidak mempunyai kawalan ke atas halaman dan sumber ini. Anda mengakui dan bersetuju bahawa kami tidak bertanggungjawab ke atas tapak dan sumber luaran ini dan tidak mengendors dan tidak bertanggungjawab untuk sebarang kandungan, iklan, produk atau bahan lain yang disediakan di tapak dan sumber ini. Anda selanjutnya mengakui dan bersetuju bahawa kami tidak bertanggungjawab, secara langsung atau tidak langsung, untuk sebarang kerosakan atau kerugian yang disebabkan oleh atau dipercayai disebabkan oleh atau berkaitan dengan penggunaan atau pergantungan pada mana-mana kandungan, barangan atau perkhidmatan yang disediakan pada atau melalui laman web itu atau sumber. "
+  },
+  "termination": {
+    "title": "Penamatan",
+    "desc": "Kami boleh menamatkan akses anda kepada mana-mana bahagian perkhidmatan atau semua perkhidmatan dan mana-mana perkhidmatan berkaitan pada bila-bila masa, dengan atau tanpa sebab, dengan notis atau tanpa notis, dan berkuat kuasa serta-merta. Kami juga mungkin menamatkan atau menggantung akaun anda yang tidak aktif, iaitu, ditakrifkan sebagai kegagalan untuk menggunakan perkhidmatan halaman web melalui akaun tersebut untuk tempoh masa tertentu. Anda bersetuju bahawa kami tidak bertanggungjawab kepada anda atau mana-mana pihak ketiga untuk menamatkan akses kepada perkhidmatan tersebut.    "
+  },
+  "changesToTerms": {
+    "title": "PERUBAHAN TERMA PERKHIDMATAN    ",
+    "desc": "Kami berhak untuk membuat perubahan, pelarasan, pembatalan atau penambahan kepada syarat ini pada bila-bila masa dengan memberikan notis awal. Walau bagaimanapun, dalam keadaan kecemasan atau untuk mengekalkan keselamatan tapak web atau dalam keadaan di luar kawalan kami, di mana kami mendapati perlu untuk menukar, menyesuaikan, membatalkan atau menambah syarat ini, ia akan berbuat demikian tanpa notis terlebih dahulu kepada anda. Adalah dipersetujui bahawa anda akan mengakses dan menyemak syarat ini dari semasa ke semasa untuk sebarang perubahan, pengubahsuaian, pembatalan atau penambahan terkini. Anda seterusnya bersetuju dan menerima bahawa akses berterusan anda kepada dan penggunaan terma (seperti yang dipinda atau diubah suai dari semasa ke semasa) akan dianggap sebagai penerimaan anda terhadap sebarang perubahan, pengubahsuaian, pembatalan atau penambahan kepada syarat ini.    "
+  },
+  "adjustments": {
+    "title": "PELARASAN UNTUK MENGHORMATI    ",
+    "desc": "Kami berhak untuk mengubah suai atau melengkapkan perkhidmatan (atau mana-mana bahagian perkhidmatan) sama ada secara sementara atau kekal pada bila-bila masa dengan atau tanpa notis. Anda bersetuju bahawa kami tidak akan bertanggungjawab kepada anda atau mana-mana pihak ketiga untuk sebarang pengubahsuaian, penggantungan atau penamatan perkhidmatan.    "
+  },
+  "generalTerms": {
+    "title": "UMUM",
+    "desc": "Tajuk yang digunakan di bawah terma ini adalah untuk rujukan sahaja dan tidak boleh diambil kira dalam tafsiran terma ini. Jika mana-mana peruntukan terma ini melanggar undang-undang atau tidak sah dari segi undang-undang atau peraturan semasa atau akan datang, peruntukan tersebut akan diputuskan dan terma ini akan ditafsirkan seolah-olah istilah haram itu tidak wujud dan terma ini bersama-sama seperti syarat lain . jawatan itu akan mempunyai kuasa penuh tanpa dijelaskan oleh sebarang jawatan yang menyalahi undang-undang atau menyalahi undang-undang.    "
+  },
+  "footerPrivacy": {
+    "title": "Dasar Privasi"
+  },
+  "privacySection1": {
+    "title": "PRIVASI ANDA",
+    "desc": "Halaman ini menerangkan dasar privasi yang meliputi penggunaan dan perlindungan maklumat yang diberikan oleh pelawat. Jika anda membuat transaksi atau menghantar e-mel yang mengandungi notis peribadi, notis ini mungkin dikongsi dengan agensi awam lain untuk membantu menyediakan perkhidmatan yang lebih cekap dan berkesan. Contohnya, dalam menyelesaikan aduan yang memerlukan maklum balas daripada agensi lain."
+  },
+  "privacySection2": {
+    "title": "NOTIS DATA TERKUMPUL",
+    "desc": "Tiada maklumat peribadi akan dikumpul semasa anda melayari portal ini kecuali maklumat yang dihantar oleh anda melalui e-mel.",
+    "point1": "Portal ini mempunyai pautan ke portal/halaman web lain. Dasar privasi ini digunakan untuk halaman web ini sahaja. Harap maklum bahawa portal/halaman web yang disenaraikan dalam pautan mungkin mempunyai dasar privasi yang berbeza dan pelawat dinasihatkan untuk menyelidik dan memahami dasar privasi untuk setiap portal/halaman web yang mereka navigasi."
+  },
+  "privacySection3": {
+    "title": "PERUBAHAN ASAS",
+    "desc": "Jika dasar privasi ini diimbas, imbasan akan dikemas kini pada halaman ini. Dengan kerap melawat halaman ini, anda akan dikemas kini dengan maklumat yang dikumpul, cara ia digunakan dan dalam keadaan tertentu, bagaimana maklumat itu dikongsi dengan orang lain."
+  },
+  "privacySection4": {
+    "title": "PERLINDUNGAN DATA PERIBADI",
+    "point1": "Pejabat Perlindungan Data Peribadi (JPDP) adalah sebuah agensi di bawah Kementerian Komunikasi dan Multimedia Malaysia (KKMM) yang ditubuhkan pada 16 Mei 2011 selepas Parlimen meluluskan Draf Undang-undang berkaitan Akta Perlindungan Data Peribadi (APDP) 2010, iaitu Akta 709.",
+    "point2": "Tanggungjawab utama jawatan ini adalah untuk menyelia pemprosesan data peribadi individu yang terlibat dalam urusan perniagaan komersial oleh Pengguna Data supaya mereka tidak disalahgunakan dan disalahgunakan oleh pihak yang berkepentingan.",
+    "point3": "Keselamatan data peribadi pengguna perlu dilindungi untuk mengelakkan sebarang bentuk penyalahgunaan penyimpanan atau pemprosesan data peribadi individu, awam dan persendirian di Malaysia dalam transaksi komersial seperti yang ditetapkan di bawah APDP ini.",
+    "point4": "Dalam memperkasakan APDP, JPDP telah mewajibkan semua Kumpulan Pengguna Data Peribadi yang terdiri daripada individu dan pihak persendirian kecuali Kerajaan mendaftar secara rasmi bagi tujuan melindungi hak pengguna dan orang ramai.",
+    "point5": "JPDP dipengerusikan oleh Ketua Jawatankuasa Pemanduan dibantu oleh Ketua Pegawai Pemanduan. Manakala, terdapat tiga bahagian utama dalam JPDP iaitu Bahagian Pendaftaran dan Operasi, Bahagian Pemantauan dan Bahagian Perundangan."
+  },
+  "footerSecurity": {
+    "title": "Keselamatan Asas ",
+    "header": "Dasar Keselamatan"
+  },
+  "securitySection1": {
+    "title": "PERLINDUNGAN DATA",
+    "desc": "Teknologi terkini termasuk penyulitan data digunakan untuk melindungi data yang dibentangkan dan pematuhan kepada piawaian keselamatan yang ketat digunakan untuk mengelakkan keuntungan yang tidak dibenarkan."
+  },
+  "securitySection2": {
+    "title": "KESELAMATAN STOR",
+    "desc": "Semua storan elektronik dan penghantaran data peribadi akan dilindungi dan disimpan menggunakan teknologi keselamatan yang sesuai. "
+  },
+  "footer": {
+    "notes": "Paparan terbaik menggunakan Mozilla Firefox versi 50 dan ke atas pada resolusi skrin minimum 1366x768",
+    "terms": "Terma & Syarat",
+    "privacy": "Dasar Privasi",
+    "security": "Dasar Keselamatan",
+    "disclaimer": "Penafian",
+    "online": "Dalam talian",
+    "today": "Hari ini",
+    "yesterday": "Semalam",
+    "total": "jumlah",
+    "maximum": "Maksimum",
+    "visitorCount": "Bilangan Pelawat",
+    "followUs": "Ikuti Kami",
+    "links": "Pautan"
+  },
+  "aboutus": {
+    "aboutmuo": "TENTANG MUO",
+    "aboutnscp": "TENTANG NSCP"
+  },
+  "aboutmuo1": {
+    "title": "APA ITU MUO?",
+    "desc": "Balai Cerap Bandar Malaysia (MUO) ialah sistem pemantauan perbandaran di peringkat kebangsaan yang mengintegrasikan pelbagai platform data besar untuk menjalankan fungsi data analisis supaya sistem pengurusan data bandar lebih komprehensif, inklusif dan berkesan untuk mencapai pembangunan mampan demi kesejahteraan hidup. daripada masyarakat."
+  },
+  "aboutmuo2": {
+    "title": "MATLAMAT MUO",
+    "desc": "Bertujuan untuk menjadi platform nasional analisis data besar untuk perancangan spatial melalui rangkaian maklumat bersepadu pintar"
+  },
+  "aboutmuo3": {
+    "title": "OBJEKTIF MUO",
+    "point1": "Membangunkan sistem inovatif yang mengumpul, menjana dan menganalisis data secara automatik",
+    "point2": "Membangunkan pusat data daripada pelbagai sumber berasaskan teknologi data yang berkaitan dengan perancangan bandar dan luar bandar",
+    "point3": "Pemantauan kelestarian berdasarkan pencapaian agenda kelestarian nasional dan antarabangsa",
+    "point4": "Fokus pada pelaksanaan penyelesaian teknologi inovatif melalui geo-analisis",
+    "point5": "Membangunkan rangkaian untuk pertukaran maklumat dan pembinaan kapasiti",
+    "point6": "Platform Bandar Pintar Nasional (NSCP)"
+  },
+  "aboutmuo4": {
+    "title": "FUNGSI MUO",
+    "point1": "Platform data besar bandar yang komprehensif dan holistik",
+    "point2": "Pemantauan dan pelaksanaan agenda kemampanan",
+    "point3": "Pengurusan bandar yang berkesan",
+    "point4": "Platform Bandar Pintar Negara",
+    "point5": "Penyelesaian Sistematik (Perancangan Berasaskan Bukti)"
+  },
+  "aboutmuo5": {
+    "title": "RAKAN KOLABORASI",
+    "point1": "Rakan Kongsi Strategik",
+    "point2": "Pihak berkepentingan utama dengan kepakaran dalam kesediaan infrastruktur digital dan perkakasan serta platform perkongsian data terbuka untuk menyokong pembangunan MUO",
+    "point3": "Rakan Kongsi Pintar",
+    "point4": "Pihak berkepentingan yang membekal dan menggunakan data melalui platform MUO"
+  },
+  "aboutnscp1": {
+    "title": "PLATFORM BANDAR PINTAR NEGAR",
+    "desc": "Platform Bandar Pintar Nasional ialah platform bersepadu di peringkat nasional yang mengintegrasikan data bandar pintar dan maklumat perbandaran untuk mencipta data bandar pintar. Platform ini boleh membantu melaksanakan analisis data besar untuk proses membuat keputusan yang lebih berkesan."
+  },
+  "aboutnscp2": {
+    "title": "OBJEKTIF PLATFORM BANDAR PINTAR NEGARA",
+    "desc": "Platform Bandar Pintar Nasional sebagai rangkaian maklumat bandar pintar dan perkongsian data dengan Pihak Berkuasa Tempatan untuk menangani isu perbandaran"
+  },
+  "aboutnscp3": {
+    "title": "OBJEKTIF PLATFORM BANDAR PINTAR NEGARA",
+    "point1": "Memudahkan perkongsian data/maklumat perbandaran dalam talian dalam masa nyata melalui sumber/platform yang berbeza untuk mewujudkan data bandar pintar negara.",
+    "point2": "Bantu menganalisis data / maklumat daripada pelbagai sumber yang berbeza untuk membuat keputusan berasaskan data (data driven decision making) dengan lebih cekap berkaitan pembangunan dan pengurusan bandar.",
+    "point3": "Memantau dan mengukur pelaksanaan dan pencapaian bandar di Malaysia dalam pelaksanaan inisiatif bandar pintar (mengikut ISO 37122) agar setanding dengan bandar di peringkat antarabangsa.",
+    "point4": "Menyokong perancangan dan pelaksanaan Rangka Kerja Bandar Pintar Malaysia 2019-2025 yang telah mengenal pasti Dasar, Strategi dan Inisiatif bagi memenuhi hala tuju Negara bagi menjadikan bandar raya di Malaysia lebih berdaya saing dan melaporkan kepada Majlis Bandaraya Pintar Negara.",
+    "point5": "Memantau pelaksanaan bandar pintar melibatkan 155 PBT melalui papan pemuka profiling Bandar Pintar Malaysia sebagai panduan kepada Kementerian dalam merancang dan memantau pelaksanaan projek/inisiatif bandar pintar di Malaysia secara lebih sistematik."
+  },
+  "aboutnscp4": {
+    "title": "FUNGSI PLATFORM BANDAR PINTAR NEGARA",
+    "point1": "Profiling Papan Pemuka Smart City Malaysia",
+    "point2": "Data Bandar Pintar Pihak Berkuasa Tempatan (PBT)",
+    "point3": "Analitis Bandar Pintar",
+    "point4": "Penarafan Bandar Pintar Repositori"
+  },
+  "aboutnscp5": {
+    "title": "KOMPONEN BANDAR PINTAR NEGARA",
+    "desc": "Terdapat tujuh komponen Smart City yang merangkumi:",
+    "image1": "KERAJAAN BESTARI",
+    "image2": "EKONOMI BESTARI",
+    "image3": "HIDUP PINTAR",
+    "image4": "ORANG PINTAR",
+    "image5": "MOBILITI PINTAR",
+    "image6": "PERSEKITARAN PINTAR",
+    "image7": "INFRASTRUKTUR DIGITAL PINTAR"
+  },
+  "aboutnscp6": {
+    "title": "PIONEER PBT (6 PBT)",
+    "image1": "Perbadanan Putrajaya (PPj)",
+    "image2": "Dewan Bandaraya Kuala Lumpur (DBKL",
+    "image3": "Majlis Bandaraya Johor Bahru",
+    "image4": "Majlis Bandaraya Petaling Jaya",
+    "image5": "Majlis Bandaraya Pulau Pinang",
+    "image6": "Majlis Perbandaran Kulim"
+  },
+  "news": {
+    "title": "BERITA TERKINI",
+    "filter": "Filter by Years:"
+  },
+  "insightFilter": {
+    "option1": "Sila Pilih Tema",
+    "option2": "Kemampanan Pembangunan Spatial",
+    "option3": "Kemakmuran Ekonomi & Dinamik",
+    "option4": "Persekitaran Berdaya Huni & Komuniti Inklusif",
+    "option5": "Kemampanan Alam Sekitar",
+    "option6": "Tadbir Urus Perancangan yang Baik"
+  },
+  "ContactUs": {
+    "H1": "Jabatan Perancangan Bandar dan Desa (PLANMalaysia)",
+    "H3": "Pusat Operasi Balai Cerap Bandar Malaysia (MUO).",
+    "name": "Nama",
+    "nameEmpty": "Nama tidak boleh kosong",
+    "email": "E-mel",
+    "category": "kategori",
+    "remark": "Teguran",
+    "code": "Kod pengesahan",
+    "Contact": "Hubungi Kami",
+    "desc": "Jika anda mempunyai pertanyaan atau soalan lain, sila isi borang berikut untuk menghubungi kami. Terima kasih.",
+    "emailInvalid": "E-mel bukan alamat e-mel yang sah",
+    "emailEmpty": "E-mel tidak boleh kosong",
+    "contactUs": "Hubungi Kami",
+    "categoryEmpty": "kategori tidak boleh kosong",
+    "remarksEmpty": "Catatan tidak boleh kosong",
+    "Hantar": "Hantar",
+    "captchaNotValid": "Kod pengesahan tidak betul.",
+    "DH1": "Town and Country Planning Department (PLANMalaysia)",
+    "DH2": "Malaysian Urban Observatory (MUO) Operations Center",
+    "DP1": "Block F5, Complex F, Precinct 1,",
+    "DP2": "Government Administration Center",
+    "DP3": "Federation, 62675 Putrajaya, Malaysia",
+    "DP4": "Pentadbir Sistem",
+    "DP5": "MUO officer",
+    "DP6": "Waktu Operasi",
+    "DP7": "Monday - Friday 9:30am - 5:00pm",
+    "DP8": "Saturday - Sunday & Public Holidays - Closed",
+    "mob": "+(60) 3-8091 0289",
+    "location": "Lokasi Kami"
+  },
+  "contactFilter": {
+    "option1": "Sila pilih ",
+    "option2": "Maklum balas",
+    "option3": "Syor",
+    "option4": "Aduan"
+  },
+  "faq": {
+    "title": "SOALAN LAZIM",
+    "Q1": "Apakah itu Balai Cerap Bandar Malaysia (MUO)?",
+    "A1": "Balai Cerap Bandar Malaysia (MUO) menjadi platform analisis data besar yang menggunakan sistem maklumat pintar bersepadu (Sistem Maklumat Pintar Bersepadu) untuk menyokong pembangunan bandar yang mampan. MUO ialah rangka kerja asas untuk membangunkan rangkaian perkongsian maklumat perbandaran dan Platform Bandar Pintar Negara.",
+    "Q2": "Apakah keperluan sistem Balai Cerap Bandar Malaysia (MUO). ?",
+    "A21": "Mencapai matlamat pembangunan bandar global melalui perbandingan dengan pencapaian bandar-bandar lain di dunia.",
+    "A22": " Menilai trend pembandaran di Malaysia secara menyeluruh dan meningkatkan pemantauan petunjuk pembangunan bandar yang mampan.",
+    "A23": "Dayakan keputusan perancangan yang lebih tepat dan mudah dengan platform untuk analisis bagi menangani isu-isu bandar yang semakin kompleks.",
+    "A24": "Hasil akhir analisis akan menjadi signifikan sebagai input untuk merangka strategi pembangunan bandar.",
+    "A25": "Management and sharing of data and information is becoming more efficient.",
+    "Q3": "Apakah peranan sistem MUO ? ",
+    "A3": "Sistem MUO sebagai platform data besar analisis perancangan spatial melalui rangkaian perkongsian maklumat pintar bersepadu.",
+    "Q4": "Apakah faedah menggunakan sistem MUO ?",
+    "A4": "Pengguna boleh memahami dan berkongsi data sedia ada dalam sistem MUO.",
+    "Q5": "Berapakah bilangan modul yang terdapat dalam platform Sistem MUO ?",
+    "A5": "Terdapat 8 modul dalam sistem MUO iaitu:",
+    "A51": "1. Pelaporan dan Pemantauan Bandar Mampan",
+    "A52": "2. Geohub",
+    "A53": "3. Balai Cerap Bandar Papan Pemuka",
+    "A54": "4. Penyelidikan dan pembangunan",
+    "A55": "5. Sokongan Keputusan ",
+    "A56": "6. Profil Bandar ",
+    "A57": "7. Bandar Pintar Negara ",
+    "A58": "8. Aplikasi Mudah Alih",
+    "Q6": "Modul yang manakah terlibat dalam mencipta perkongsian data dan peta perkhidmatan ?",
+    "A6": "  Modul yang terlibat ialah modul Profil Bandar dan Modul Penyelidikan dan Pembangunan",
+    "Q7": "Siapakah rakan usaha sama yang terlibat dalam Sistem MUO ?",
+    "A7": " Rakan Kerjasama terdiri daripada Rakan Kongsi Strategik dan Rakan Kongsi Pintar. Rakan Kongsi Strategik ialah pemegang kepentingan utama yang mempunyai kepakaran dalam kesediaan dan perkakasan infrastruktur digital serta platform perkongsian data terbuka untuk menyokong pembangunan MUO. Manakala Rakan Pintar adalah pemegang kepentingan yang membekal dan menggunakan data melalui platform MUO.",
+    "A711": "Rakan kongsi strategik termasuk: ",
+    "A712": "Jabatan Perangkaan Malaysia (DOSM)",
+    "A713": " Unit Pemodenan Pentadbiran dan Perancangan Pengurusan Malaysia (MAMPU)",
+    "A714": " Pusat Geospatial Negara (PGN)",
+    "A721": "Rakan kongsi pintar terdiri daripada: ",
+    "A722": "Agensi Kerajaan Persekutuan",
+    "A723": " Agensi Kerajaan Negeri",
+    "A724": " Pihak Berkuasa Tempatan(PBT)",
+    "A725": "Institusi Pengajian Tinggi (IPT)",
+    "A726": "Institusi Penyelidikan",
+    "A727": "Syarikat swasta",
+    "Q8": "Bolehkah saya menggunakan sistem MUO tanpa mendaftar sebagai pengguna berdaftar?",
+    "A8": " Tidak. Pengguna awam perlu mendaftar sebagai pengguna berdaftar dalam sistem MUO. ",
+    "Q9": "Berapa lama masa yang diambil untuk mengaktifkan akaun berdaftar?",
+    "A9": "Tempoh pengaktifan akaun adalah dalam masa 5 hari dan pemberitahuan status pendaftaran adalah melalui e-mel oleh Pentadbir Sistem."
+  },
+  "searchFilter": {
+    "Header": "#MALAYSIA URBAN OBSERVATORY",
+    "Search": "Carian",
+    "SearchHint": "Carian...",
+    "SearchPH": "Contoh carian seperti kediaman, kemudahan, industri, institusi dan sebagainya.",
+    "Information": "Information",
+    "Data": "Data",
+    "Tepu": "Tepu Bina In Selangor 2002-2020",
+    "webadmin": "Shared by webadmin",
+    "gis": "#gis",
+    "spatial": "#spatial",
+    "tepubina": "#tepupina",
+    "selangor": "#selangor",
+    "kediaman": "#kediaman",
+    "content1": "The gazetted area as well as the built-up saturated area bordering it and the combination of these two areas has a population of 10,000 or more; or *area specialized development; or district administration center though population less than 10,000 people and at least 60% of its population aged 15 and above are involved in non-agricultural activities.",
+    "licence": "No license specified",
+    "accessable": "Accessible to Everyone",
+    "date": "29-07-2022",
+    "feather": "Feature Service",
+    "JsonContent": "Json Content",
+    "limit": "Record limit: ",
+    "download": "Muat turun",
+    "preview": "Pratonton",
+    "downloadCSV": "Muat turun CSV",
+    "Alert":"Amaran"
+
+  },
+  "dashboard": {
+    "title": "Rebakan Bandar",
+    "SelectState": "Pilih Negeri",
+    "dataLayer": "Lapisan Data",
+    "dataLayerOpt1": "Sempadan pbt",
+    "message": "Sila daftar sebagai pengguna MUO untuk melihat fungsi ini",
+    "News":"Berita"
+  },
+  "theme": {
+    "SubTheme": "Sub Thema",
+    "LinktheSDGs": "Hubungkait SDGs"
+  },
+  "insightsDetatil": {
+    "information": "Keterangan",
+    "theme": "Tema",
+    "subtheme": "Subtema",
+    "state": "Negeri",
+    "stateselect": "Sila Pilih Negeri",
+    "themeselect": "Sila Pilih Tema",
+    "nodata": "Tiada Data Ditemui",
+    "search": "Cari..."
+  },
+  "copyRight": {
+    "text": "© Hak Cipta 2023 ",
+    "PLANMalaysia": "PLANMalaysia"
+  },
+  "rAndD": {
+    "title": "Penyelidikan dan Pembangunan",
+    "popupTitle": "Minta akses daripada",
+    "popupDesc": "Setelah permintaan anda diluluskan, anda akan menerima butiran melalui e-mel.",
+    "access": "Akses",
+    "submit": "Hantar",
+    "submitSuccess": "Berjaya meminta akses. Setelah permintaan anda diluluskan, anda akan menerima butiran melalui e-mel.",
+    "submitFailure": "Tidak dapat meminta akses. Sila cuba lagi"
+  }
+}

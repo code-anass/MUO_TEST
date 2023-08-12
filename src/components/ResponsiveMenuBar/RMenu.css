@@ -1,0 +1,106 @@
+.slicknav_menu {
+    display: none;
+
+    @media screen and (max-width: 768px) {
+        display: block;
+    }
+}
+
+.slicknav_menu {
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+.slicknav_menu {
+    *zoom: 1;
+
+}
+
+.slicknav_btn {
+    border-color: #28b463;
+}
+
+.slicknav_btn {
+    border: 1px solid;
+    border-radius: 0;
+    margin: 11px 15px;
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+.slicknav_menu * {
+    box-sizing: border-box;
+}
+.slicknav_btn {
+    cursor: pointer;
+    display: block;
+    float: right;
+    height: 35px;
+    line-height: 50px;
+    padding: 10px 0 9px;
+    position: relative;
+    vertical-align: middle;
+    width: 44px;
+}
+.slicknav_menu ul {
+    background: #fff;
+}
+
+.slicknav_nav {
+    color: #fff;
+    font-size: 0.875em;
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.slicknav_menu * {
+    box-sizing: border-box;
+}
+.slicknav_nav {
+    clear: both;
+}
+ul, ol {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+}
+dl, ol, ul {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.slicknav_nav a {
+    padding: 5px 10px;
+    margin: 2px 5px;
+    text-decoration: none;
+    color: #666;
+}
+
+.slicknav_nav a {
+    display: block;
+}
+.slicknav_menu * {
+    box-sizing: border-box;
+}
+a {
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}

@@ -1,0 +1,103 @@
+.rowD {
+    --bs-gutter-x: 1.75rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-.5 * var(--bs-gutter-x));
+    margin-left: calc(-.5 * var(--bs-gutter-x));
+}
+
+.block {
+    margin-bottom: 1.875rem;
+    background-color: #fff;
+    box-shadow: 0 1px 2px rgba(214,219,226,.5), 0 1px 2px rgba(214,219,226,.5);
+}
+.block.block-rounded {
+    border-radius: 0.3rem;
+}
+
+.content .block, .content .items-push>div, .content .push, .content p {
+   
+    @media (min-width: 768px){
+    margin-bottom: 1.875rem;
+    }
+}
+.block.block-rounded>.block-header, .block.block-rounded>.nav-tabs {
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+}
+
+.block-header-default {
+    background-color: #f6f7f9;
+}
+.block-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.625rem 1.25rem;
+    transition: opacity .25s ease-out;
+}
+
+.block.block-rounded>.block-content:last-child {
+    border-bottom-right-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+}
+
+.block.block-rounded>.block-content:first-child {
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+}
+.bg-body-dark {
+    background-color: #dde2e9!important;
+}
+.block-content {
+    transition: opacity .25s ease-out;
+    width: 100%;
+    margin: 0 auto;
+    padding: 1.25rem 1.25rem 1px;
+    overflow-x: visible;
+}
+.block-content {
+    transition: opacity .25s ease-out;
+    width: 100%;
+    margin: 0 auto;
+    padding: 1.25rem 1.25rem 1px;
+    overflow-x: visible;
+}
+.progress {
+    display: flex;
+    height: 1.25rem;
+    overflow: hidden;
+    font-size: 1rem;
+    background-color: #e9ecef;
+    border-radius: 0.25rem;
+}
+.bg-success {
+    background-color: #65a30d!important;
+}
+.bg-success {
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-success-rgb),var(--bs-bg-opacity))!important;
+}
+.progress-bar-animated {
+    -webkit-animation: 1s linear infinite progress-bar-stripes;
+    animation: 1s linear infinite progress-bar-stripes;
+}
+.progress-bar-striped {
+    background-image: linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);
+    background-size: 1.25rem 1.25rem;
+}
+.progress-bar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    background-color: #4c78dd;
+    transition: width .6s ease;
+}

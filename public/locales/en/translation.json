@@ -1,0 +1,489 @@
+{
+  "generic": {
+    "moreDetails": "More Details",
+    "exploreMore": "Explore More",
+    "sun": "Sunday",
+    "mon": "Monday",
+    "tues": "Tuesday",
+    "wed": "Wednesday",
+    "thurs": "Thursday",
+    "fri": "Friday",
+    "sat": "Saturday",
+    "filter":"Filter by Years:"
+  },
+  "Hero": {
+    "1": "MALAYSIA URBAN OBSERVATORY",
+    "2": "Spatial Analytics For Sustainable Future",
+    "search": "Search",
+    "4": "Search For Data Sets, Visualisations Etc."
+  },
+  "Navbar": {
+    "1": "Home",
+    "2": "About Us",
+    "21": "About Us",
+    "22": "Modules",
+    "23": "News",
+    "24": "Partner",
+    "3": "Insights",
+    "31": "National",
+    "32": "Regional",
+    "33": "State",
+    "34": "Local",
+    "4": "Theme",
+    "5": "Dashboard",
+    "51": "City Spread Dashboard",
+    "52": "Traffic Flow Dashboard",
+    "6": "Contact Us",
+    "61": "Frequently Asked Questions",
+    "62": "Complaints and Feedback",
+    "7": "Login",
+    "8": "My Account"
+  },
+  "home": {
+    "hightlights": "Highlight",
+    "insights": "Insights",
+    "modules": "Modules",
+    "themes": "Themes",
+    "stategic_partners": "Strategic Partners",
+    "smart_partners": "Smart Partners",
+    "announcements": "ANNOUNCEMENT"
+  },
+  "insights": {
+    "sub_title": "Showcasing and visualizing the interactive urban related informations through different level of perspective.",
+    "national": "NATIONAL",
+    "regional": "REGIONAL",
+    "state": "STATE",
+    "local": "LOCAL",
+    "national_desc": "Malaysia is a Southeast Asian country divided into two regions: Peninsular Malaysia and Borneo East Malaysia.",
+    "regional_desc": "Malaysia is divided into six main regions, namely the Northern Region, Central Region, Southern Region, East Coast, Sabah, and Sarawak.",
+    "state_desc": "Malaysia consists of 13 states and 3 federal territories.",
+    "local_desc": "Malaysia consists of 155 local authorities. All authorities are responsible for public facilities and basic infrastructure, while city authorities generally also provide services such as public health, waste management and urban planning, and city councils in turn provide law enforcement."
+  },
+  "themes": {
+    "sub_title": "5 themes used in MUO towards urban sustainability",
+    "sustainable": "Sustainability in Spatial Development",
+    "sustainable_desc": "This theme emphasises the monitoring aspect of sustainable physical development by considering each development's geographical position. It includes elements of infrastructure and utilities, urban mobility, accessibility, rural development, urban diversity, and land use.",
+    "dynamic_balanced": "Dynamic & Balanced Economic Prosperity",
+    "dynamic_balanced_desc": "This theme will emphasise on monitoring aspects of economic growth across the country covering economic resilience and competitiveness. It also focuses on the digital economy's development and food security issues that can jeopardize the economic balance.",
+    "livable_environment": "Livable Environments & Inclusive Communities",
+    "livable_environment_desc": "On the aspects of monitoring community wellbeing, it includes sub-themes of housing planning, education, health, security, human capital development and community involvement in development that can improve the quality of life.",
+    "environment": "Environmental Sustainability",
+    "environment_desc": "Environmental monitoring includes aspects of sustainable land use planning, conservation and preservation of the environment and heritage resources, and disaster risk management that can assist in addressing climate change.",
+    "governance": "Good Governance",
+    "governance_desc": "The good governance theme will cover aspects of good governance monitoring and planning towards enhancing transparency and accountability. It includes legislation, financial distribution, asset management, public involvement in planning activities and the capacity of an institution."
+  },
+  "modules": {
+    "sub_title": "Main Modules in Malaysia Urban Observatory (MUO)",
+    "sustainable_urban": "SUSTAINABLE URBAN REPORTING AND MONITORING",
+    "sustainable_urban_desc": "A module that reports on the achievements of the implementation of national and international sustainability agendas such as Sustainable Development Goals (SDGs), National Urbanization Policy (DPN) or National Physical Plan (RFN).",
+    "geo_hub": "GEOHUB",
+    "geo_hub_desc": "Accessible data-sharing hub. This module provides an online information sharing platform for professionals to general readers.",
+    "dashboard": "DASHBOARD URBAN OBSERVATORY",
+    "dashboard_desc": "The platform provides a wide range of features and functionalities, including geo-analytics and a smart dashboard that is user friendly and easy to share.",
+    "city_proile": "CITY PROFILE",
+    "city_proile_desc": "Offer interactive story maps, dashboards and visualisations that encompass physical issues like land usage and urban settlement, among others.",
+    "research": "RESEARCH AND DEVELOPMENT",
+    "research_desc": "Assist diverse stakeholders in implementing research procedures and developing and testing models linked to municipal research and development.",
+    "decision": "DESICION SUPPORT",
+    "decision_desc": "Allows users to easily perform analysis and analysis. Before being included in the MUO analysis, this module can adjust the criteria, models, algorithms or formulas used in the research and development module to achieve a high level of accuracy.",
+    "national_smart": "NATIONAL SMART CITY PLATFORM",
+    "national_smart_desc": "Facilitate in the analysis of data and information from numerous sources to create more effective data-driven decisions linked to urban development and management.",
+    "mobile_app": "MOBILE APPLICATION",
+    "mobile_app_desc": "MUO application software for easy access to MUO information via mobile devices, such as smartphones or tablet computers"
+  },
+  "disclaimer": {
+    "title": "DISCLAIMER",
+    "message": "All information published and contained in this website is for general reference purposes only. PLANMalaysia does not guarantee that any information contained in this website is complete, up-to-date or accurate. The information displayed is subject to change without notice. For the purpose of verifying information, you are advised to check with PLANMalaysia State or Local Authorities.",
+    "agree": "Agree"
+  },
+  "settings": {
+    "hideSidebar": "Hide Sidebar",
+    "changeFontColor": "CHANGE FONT COLOR",
+    "changeFontSize": "CHANGE FONT SIZE",
+    "changeFontFamily": "CHANGE FONT FAMILY",
+    "changeLanguage": "CHANGE LANGUAGE",
+    "w3c": "W3C: DISABILITY ACCESS",
+    "w3cGuide": "Guidelines"
+  },
+  "w3c": {
+    "title": " W3C : Web Content Accessibility Guidelines (Disability Access )",
+    "desc1": " PLANMalaysia's Official Portal provides facilities for disabled access (OKU) / Disability Access based on W3C standards.",
+    "desc2": "- Web Accessibility Initiative (WAI) following the procedure of the Web Content Accessibility Guidelines 2.0."
+  },
+  "sectionA": {
+    "title": "A) VISUALLY IMPAIRED USERS",
+    "desc": "Get the free ChromeVox component (extension) software for the Google Chrome web browser <a href=https://chrome.google.com/webstore/unsupported/kgejglhpjiefppelpmljglcjbhoiplfn>here</a> for the purpose of reading the text content of this website in the form of audio (audio) conversation (in English).",
+    "point1": "1. Before you can use this component, you need to install it on Google Chrome as an extension and before that you have to download and install Google Chrome web browser software.",
+    "point2": "2. For further instructions to use this component,  <a href=https://support.google.com/chromebook/answer/7031755>please click here.</a>",
+    "point3": "3. Alternatively, you can also use at least one Speech Engine or Text/Screen Reader or Text-to-speech (TTS) software. Speech engine is a male or female voice, which will speak in English or other languages ​​according to your choice. Another example of software that can be used is <a href=https://support.microsoft.com/en-us/windows/complete-guide-to-narrator-e4397a0d-ef4f-b386-d8ae-c172f109bdb1> Microsoft Narrator </a>available in Windows 8/7/Vista and Microsoft components (Chrome extension).<a href=http://www.microsurf.org/>Microsoft.</a>"
+  },
+  "sectionB": {
+    "title": "B) Color blind users",
+    "desc": "For color blind users, there are several color options available at the top of each page of the Malaysia Urban Observatory Official Portal. Users can choose a color from the color options provided and the color of the text on the Official Malaysia Urban Observatory Portal will change according to your choice."
+  },
+  "sectionC": {
+    "title": "C) Elderly users or have near / far sightedness",
+    "desc": "For this category, the Official Malaysia Urban Observatory Portal provides the facility to choose different text sizes. The text size options are displayed in the upper column of each PLANMalaysia Official Portal page. Users can choose whether to choose a larger or smaller text size, as appropriate."
+  },
+  "sectionD": {
+    "title": "D) Users with hand and foot disabilities or nerve motor control problems / sense of touch (motor and dexterity impairments)",
+    "point1": " 1. This portal can be navigated without using a mouse device, i.e. just using the keyboard by pressing the Tab button and arrows to move around the spaces and elements of the website interface and pressing the Enter or Spacebar button to select an interface element to interact with or as a link to another web page content page.",
+    "point2": "2. This portal can also be navigated using a mouse device only, assisted by available software",
+    "point3": "3. This portal can also be navigated and accessed by sound (audio) using a microphone device, in the form of English speaking instructions using Speech Recognition software (tools) or at least Speech-to-text using Assistive Technology technology) such as Windows Speech Recognition software and component software (Chrome extension)"
+  },
+  "sectionE": {
+    "title": "References / Links :",
+    "point1": "1) W3C , Standards , Web Design and Applications , Accessibility : <a href=http://www.w3.org/standards/webdesign/accessibility/>  http://www.w3.org/standards/webdesign/accessibility</a>",
+    "point2": "2) W3C , Web Accessibility :<a href=http://www.w3.org/WAI/intro/accessibility.php>htttp://www.w3.org/WAI/intro/accessibility.php</a>",
+    "point3": "3) W3C , Web Accessibility Initiative (WAI) :<a href=http://www.w3.org/WAI/WCAG20/glance/>http://www.w3.org/WAI/WCAG20/glance/</a>",
+    "point4": "4) W3C , WAI , WCAG 2.0 document : <a href=http://www.w3.org/TR/2008/REC-WCAG20-20081211/>http://www.w3.org/TR/2008/REC-WCAG20-20081211/</a>"
+  },
+  "footer": {
+    "notes": "Best view using Mozilla Firefox version 50 and above at minimum screen resolution of 1366x768",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "security": "Basic Safety",
+    "disclaimer": "Disclaimer",
+    "online": "Online",
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "total": "Total",
+    "maximum": "Maximum",
+    "visitorCount": "Visitor Count",
+    "followUs": "Follow Us",
+    "links": "Links"
+  },
+  "footerDisclaimer": {
+    "desc": "PLANMalaysia and MUO are not responsible for any loss or damage caused by the use of information in this portal."
+  },
+  "footerTerms": {
+    "title": "Terms and Conditions",
+    "desc1": "If you access this website, it is an acknowledgment and agreement that you are bound by these terms and hereby, an agreement is formed between you as a customer, and us, for access and/or use of this website.",
+    "desc2": "These terms will supersede any terms above that you accept or access through this web page. Your continued use and/or access to the service will constitute acceptance of these terms."
+  },
+  "responsibilty": {
+    "title": "RESPONSIBILITY",
+    "desc": "You expressly understand and agree that we shall not be liable for any loss, direct or indirect, related or special, consequential or exemplary, including but not limited to loss in the form of loss of profits, trust or other intangible loss resulting from :",
+    "point1": " Use or inability to use the service ",
+    "point2": "The cost of obtaining goods and services for replacement after the purchase of any goods, data, information or services or messages received or transactions made through or from this website",
+    "point3": "Unauthorized access or alteration of your transmission or data",
+    "point4": "Statements or actions of third parties on this website",
+    "point5": " Other matters related to this website"
+  },
+  "links": {
+    "title": "LINKS",
+    "desc": "We may provide links to other websites. This web page is owned and controlled by a third party and therefore, we have no control over these pages and resources. You acknowledge and agree that we are not responsible for these external sites and resources and do not endorse and are not responsible for any content, advertisements, products or other materials provided on these sites and resources. You further acknowledge and agree that we are not responsible, directly or indirectly, for any damage or loss caused by or believed to be caused by or in connection with the use of or reliance on any content, goods or services provided on or through the website those or sources."
+  },
+  "termination": {
+    "title": "Termination",
+    "desc": "We may terminate your access to any part of the service or all of the service and any related services at any time, with or without reason, with or without notice, and effective immediately. We may also terminate or suspend your inactive account, that is, defined as failure to use the web page services through that account for a specified period of time. You agree that we are not liable to you or any third party for terminating access to the service."
+  },
+  "changesToTerms": {
+    "title": "CHANGES TO TERMS OF SERVICE",
+    "desc": "We reserve the right to make changes, adjustments, cancellations or additions to these terms at any time by giving prior notice. However, in an emergency or to maintain the security of the website or in circumstances beyond our control, where we find it necessary to change, adapt, cancel or add to these terms, it will do so without prior notice to you. It is agreed that you will access and review these terms from time to time for any changes, modifications, cancellations or recent additions. You further agree and accept that your continued access to and use of the terms (as amended or modified from time to time) will be deemed your acceptance of any changes, modifications, cancellations or additions to these terms. "
+  },
+  "adjustments": {
+    "title": "ADJUSTMENT TO RESPECT",
+    "desc": "We reserve the right to modify or complete the service (or any part of the service) either temporarily or permanently at any time with or without notice. You agree that we shall not be liable to you or any third party for any modification, suspension or termination of the service.        "
+  },
+  "generalTerms": {
+    "title": "GENERAL",
+    "desc": "The headings used under these terms are for reference only and shall not be taken into account in the interpretation of these terms. If any provision of these terms violates the law or is invalid in terms of current or future laws or regulations, such provision will be severed and these terms will be interpreted as if the illegal term did not exist and these terms together- same as other conditions. the post will have full force without being clarified by any illegal or unlawful designation."
+  },
+  "footerPrivacy": {
+    "title": "Privacy Policy"
+  },
+  "privacySection1": {
+    "title": "YOUR PRIVACY",
+    "desc": "This page describes the privacy policy that covers the use and protection of information provided by visitors. If you make a transaction or send an email that contains a personal notice, this notice may be shared with other public agencies to help provide more efficient and effective service. For example, in resolving complaints that require feedback from other agencies."
+  },
+  "privacySection2": {
+    "title": "NOTICE OF DATA COLLECTED",
+    "desc": "No personal information will be collected while you browse this portal except the information sent by you via email.",
+    "point1": "This Portal has links to other portals/webpages. This privacy policy applies to this web page only. Please be advised that the portals/webpages listed in the links may have different privacy policies and visitors are advised to research and understand the privacy policies for each portal/webpage they navigate."
+  },
+  "privacySection3": {
+    "title": "BASIC CHANGES",
+    "desc": "If this privacy policy is scanned, the scan will be updated on this page. By regularly visiting this page, you will be updated with the information collected, how it is used and in certain circumstances, how the information is shared with others."
+  },
+  "privacySection4": {
+    "title": "PERSONAL DATA PROTECTION",
+    "point1": "The Personal Data Protection Office (JPDP) is an agency under the Ministry of Communications and Multimedia Malaysia (KKMM) that was established on 16 May 2011 after Parliament passed the Draft Law related to the Personal Data Protection Act (APDP) 2010, which is the Act 709.",
+    "point2": "The main responsibility of this position is to supervise the processing of personal data of individuals involved in commercial business affairs by Data Users so that they are not abused and misused by interested parties.",
+    "point3": "The security of the user's personal data needs to be protected to prevent any form of misuse of the storage or processing of individual, public and private personal data in Malaysia in commercial transactions as stipulated under this APDP.",
+    "point4": "In empowering APDP, JPDP has required all Personal Data User Groups consisting of individuals and private parties except the Government to register officially for the purpose of protecting the rights of users and the public.",
+    "point5": "JPDP is chaired by the Head of the Driving Committee assisted by the Chief Driving Officer. Meanwhile, there are three main divisions in the JPDP, namely the Registration and Operations Division, the Monitoring Division and the Legal Division."
+  },
+  "footerSecurity": {
+    "header": "Security Policy",
+    "title": "Basic Safety"
+  },
+  "securitySection1": {
+    "title": "DATA PROTECTION",
+    "desc": "The latest technology including data encryption is used to protect the data presented and adherence to strict security standards is used to prevent unauthorized gains."
+  },
+  "securitySection2": {
+    "title": "SAFETY STORE",
+    "desc": "All electronic storage and transmission of personal data will be protected and stored using appropriate security technologies."
+  },
+  "aboutus": {
+    "aboutmuo": "About MUO",
+    "aboutnscp": "About NSCP"
+  },
+  "aboutmuo1": {
+    "title": "WHAT IS MUO?",
+    "desc": "Malaysia Urban Observatory (MUO) is a municipal monitoring system at the national level that integrates various big data platforms to carry out analytical data functions so that the urban data management system is more comprehensive, inclusive and effective to achieve sustainable development for the well-being of the community."
+  },
+  "aboutmuo2": {
+    "title": "GOAL OF MUO",
+    "desc": "Aims to be a national platform of big data analytics for spatial planning through a smart integrated information network"
+  },
+  "aboutmuo3": {
+    "title": "OBJECTIVES OF MUO",
+    "point1": "Develop an innovative system that automatically collects, generates and analyzes data",
+    "poiint2": "Develops data centers from a variety of data technology-based sources which related to urban and rural planning",
+    "point3": "Monitoring of sustainability based on the achievement of national and international sustainability agenda",
+    "point4": "Focus on the implementation of innovative technology solutions through geo-analytical",
+    "point5": "Develop a network for information exchange and capacity building",
+    "point6": "National Smart City Platform (NSCP)"
+  },
+  "aboutmuo4": {
+    "title": "MUO FUNCTIONS",
+    "point1": "A comprehensive and holistic urban big data platform",
+    "point2": "Monitoring and implementation of the sustainability agenda",
+    "point3": "Effective city management",
+    "point4": "National Smart City Platform",
+    "point5": "Systematic Solutions (Evidence-Based Planning)"
+  },
+  "aboutmuo5": {
+    "title": "COLLABORATION PARTNERS",
+    "point1": "Strategic Partners",
+    "point2": "Key stakeholders with expertise in digital infrastructure readiness and hardware and open data sharing platforms in support of MUO development",
+    "point3": "Smart Partners",
+    "point4": "Stakeholders who supply and use data through the MUO platform"
+  },
+  "aboutnscp1": {
+    "title": "NATIONAL SMART CITY PLATFORM",
+    "desc": "The National Smart City Platform is an integrated platform at the national level that integrates smart city data and municipal information to create smart city data."
+  },
+  "aboutnscp2": {
+    "title": "OBJECTIVES OF THE NATIONAL SMART CITY PLATFORM",
+    "desc": "The National Smart City Platform as a network of smart city information and data sharing with Local Authorities to deal with municipal issues"
+  },
+  "aboutnscp3": {
+    "title": "OBJECTIVES OF THE NATIONAL SMART CITY PLATFORM",
+    "point1": "Facilitating the sharing of municipal data / information online in real time through different sources / platforms to create the country smart urban data.",
+    "point2": "Help analyze data / information from various different sources to make data-driven decision making (data driven decision making) more efficiently related to urban development and management.",
+    "point3": "Monitor and measure the implementation and achievements of cities in Malaysia in the implementation of smart city initiatives (in accordance with ISO 37122) to be on par with cities at the international level.",
+    "point4": "Support the planning and implementation of the Malaysian Smart City Framework 2019-2025 which has identified Policies, Strategies and Initiatives to meet the National direction to make cities in Malaysia more competitive and reporting to the National Smart City Council.",
+    "point5": "Monitoring the implementation of smart cities involving 155 PBTs through the Malaysian Smart City profiling dashboard as a guide to the Ministry in planning and monitoring the implementation of smart city projects/initiatives in Malaysia more systematically."
+  },
+  "aboutnscp4": {
+    "title": "NATIONAL SMART CITY PLATFORM FUNCTIONS",
+    "point1": "Dashboard Profiling Smart City Malaysia",
+    "point2": "Local Authority Smart City Data (PBT)",
+    "point3": "Smart City Analytics",
+    "point4": "Repository Smart City Rating"
+  },
+  "aboutnscp5": {
+    "title": "NATIONAL SMART CITY COMPONENTS",
+    "desc": "There are seven component of Smart City which include:",
+    "image1": "SMART GOVERNMENT",
+    "image2": "SMART ECONOMY",
+    "image3": "SMART LIVING",
+    "image4": "SMART PEOPLE",
+    "image5": "SMART MOBILITY",
+    "image6": "SMART ENVIRONMENT",
+    "image7": "SMART DIGITAL INFRASTRUCTURE"
+  },
+  "aboutnscp6": {
+    "title": "PIONEER LOCAL AUTHORITY (6 PBT)",
+    "image1": "Perbadanan Putrajaya (PPj)",
+    "image2": "Dewan Bandaraya Kuala Lumpur (DBKL",
+    "image3": "Majlis Bandaraya Johor Bahru",
+    "image4": "Majlis Bandaraya Petaling Jaya",
+    "image5": "Majlis Bandaraya Pulau Pinang",
+    "image6": "Majlis Perbandaran Kulim"
+  },
+  "news": {
+    "title": "LATEST NEWS",
+    "filter": "Filter by Years:"
+  },
+  "national1": {
+    "title": "Malaysia World Ranking",
+    "infointro": "This feature displays Malaysia's position in the world in many sectors such as econ",
+    "info": " mi, technology, business, education, culture and science, which has been compiled using reliable open data sources. The statistics show Malaysia's position in all areas around the world, and it also provides an overview of Malaysia's performance compared to other countries with the same sector.",
+    "theme1": "Spatial Development Ability",
+    "theme2": "Economic Prosperity & Dynamics",
+    "theme3": "Livable Environments & Inclusive Communities",
+    "theme4": "Environmental Sustainability",
+    "theme5": "Good Planning Governance",
+    "subtheme1": "Physical",
+    "subtheme2": "Economy",
+    "subtheme3": "Social",
+    "subtheme4": "Environment",
+    "subtheme5": "Governance"
+  },
+  "insightFilter": {
+    "option1": "Please Select a Theme",
+    "option2": "Sustainability of Spatial Development",
+    "option3": "Economic Prosperity & Dynamics",
+    "option4": "Livable Environments & Inclusive Communities",
+    "option5": "Environmental Sustainability",
+    "option6": "Good Planning Governance"
+  },
+  "contactFilter": {
+    "option1": "Please Choose",
+    "option2": "Feedback",
+    "option3": "Recommendation",
+    "option4": "Complaint"
+  },
+  "Success":{
+    "submit":"Your Complaint has been submitted. Thank you"
+  },
+  "ContactUs": {
+    "H1": "Town and Country Planning Department (PLANMalaysia)",
+    "H3": "Malaysian Urban Observatory (MUO) Operations Center",
+    "name": "Name",
+    "nameEmpty": "Name cannot be blank",
+    "filed": "Name cannot be blank",
+    "email": "Email",
+    "category": "Category",
+    "remark": "Remark",
+    "code": "Verification Code",
+    "desc": "If you have any other queries or questions, please fill out the following form to contact us. Thank you.",
+    "Contact": "Contact us",
+    "emailEmpty": "Email cannot be blank",
+    "emailInvalid": "Invalid email address",
+    "contactUs": "Contact us",
+    "categoryEmpty": "Category cannot be blank",
+    "remarksEmpty": "Remarks cannot be blank",
+    "Hantar": "Hantar",
+    "captchaNotValid": "The verification code is incorrect.",
+    "DH1": "Town and Country Planning Department (PLANMalaysia)",
+    "DH2": "Malaysian Urban Observatory (MUO) Operations Center",
+    "DP1": "Block F5, Complex F, Precinct 1,",
+    "DP2": "Government Administration Center",
+    "DP3": "Federation, 62675 Putrajaya, Malaysia",
+    "DP4": "System administrator",
+    "DP5": "MUO officer",
+    "DP6": "Operation hours",
+    "DP7": "Monday - Friday 9:30am - 5:00pm",
+    "DP8": "Saturday - Sunday & Public Holidays - Closed",
+    "mob": "+(60) 3-8091 0289",
+    "location": "Our Location"
+  },
+  "faq": {
+    "title": "FREQUENTLY ASKED QUESTIONS",
+    "Q1": "What is Malaysia Urban Observatory (MUO) ?",
+    "A1": "Malaysia Urban Observatory (MUO) becomes a big data analytics platform that applies an integrated smart information system (Integrated Smart Information System) to support sustainable urban development. MUO is the basic framework for developing the municipal information sharing network and the National Smart City Platform.",
+    "Q2": "What are the requirements of the Malaysia Urban Observatory (MUO) system ?",
+    "A21": "Achieving global urban development goals through comparison with the achievements of other cities in the world. ",
+    "A22": " Evaluate urbanization trends in Malaysia comprehensively and improve monitoring of sustainable urban development indicators. ",
+    "A23": " Enable more accurate and simple planning decisions with a platform for analysis to deal with increasingly complex urban issues.",
+    "A24": " The final result of the analysis will be significant as an input to formulate a city development strategy.",
+    "A25": "Management and sharing of data and information is becoming more efficient.",
+    "Q3": "What is the role of the MUO system ? ",
+    "A3": "The MUO system as a spatial planning analytics big data platform through an integrated intelligent information sharing network.",
+    "Q4": "What are the benefits of using the MUO system ?",
+    "A4": "Users can understand and share existing data in the MUO system.",
+    "Q5": " How many modules are there in the MUO System platform ?",
+    "A5": "There are 8 modules in the MUO system which is:",
+    "A51": "1. Sustainable Urban Reporting and Monitoring",
+    "A52": "2. Geohub",
+    "A53": "3. Dashboard Urban Observatory",
+    "A54": "4. Research and Development",
+    "A55": "5. Desicion Support ",
+    "A56": "6. City Profile ",
+    "A57": "7. National Smart City ",
+    "A58": "8. Mobile Application",
+    "Q6": "Which modules are involved in creating data sharing and service maps ? ",
+    "A6": "The modules involved are City Profile module and the Research and Development Module",
+    "Q7": " Who are the collaborators involved in the MUO System ?",
+    "A7": " Collaboration Partners consist of Strategic Partners and Smart Partners. Strategic Partners are key stakeholders with expertise in digital infrastructure readiness and hardware as well as open data sharing platforms in support of MUO development. While Rakan Pintar is a stakeholder that supplies and uses data through the MUO platform. ",
+    "A711": "Strategic partners include: ",
+    "A712": "Department of Statistics Malaysia (DOSM)",
+    "A713": "Malaysian Administration Modernization and Management Planning Unit (MAMPU)",
+    "A714": "National Geospatial Center (PGN)",
+    "A721": "Smart partners consist: ",
+    "A722": "Federal Government Agency",
+    "A723": "State Government Agency",
+    "A724": "Local Authority(PBT)",
+    "A725": "Higher Education Institutions (HEIs)",
+    "A726": "Research Institution",
+    "A727": "Private companies",
+    "Q8": "Can I use the MUO system without registering as a registered user ? ",
+    "A8": "Nope. Public users need to register as a registered user in the MUO system. ",
+    "Q9": "How long does it take to activate a registered account ? ",
+    "A9": "The account activation period is within 5 days and the registration status notification is via email by the System Administrator."
+  },
+  "contactDetail": {
+    "option1": "https://servicedev.planmalaysia.gov.my/app/images/custom-icons/telephone-outbound.svg",
+    "option2": "+(60) 3-8091 0000",
+    "option3": "https://servicedev.planmalaysia.gov.my/app/images/custom-icons/envelope.svg",
+    "option4": "muo@planmalaysia.gov.my"
+  },
+  "searchFilter": {
+    "Header": "#MALAYSIA URBAN OBSERVATORY",
+    "Search": "Search",
+    "SearchHint": "Search...",
+    "SearchPH": "Examples of searches such as residences, facilities, industries, institutions and so on.",
+    "Information": "Information",
+    "Data": "Data",
+    "Tepu": "Tepu Bina In Selangor 2002-2020",
+    "webadmin": "Shared by webadmin",
+    "gis": "#gis",
+    "spatial": "#spatial",
+    "tepubina": "#tepupina",
+    "selangor": "#selangor",
+    "kediaman": "#kediaman",
+    "content1": "The gazetted area as well as the built-up saturated area bordering it and the combination of these two areas has a population of 10,000 or more; or *area specialized development; or district administration center though population less than 10,000 people and at least 60% of its population aged 15 and above are involved in non-agricultural activities.",
+    "licence": "No license specified",
+    "accessable": "Accessible to Everyone",
+    "date": "29-07-2022",
+    "feather": "Feature Service",
+    "JsonContent": "Json Content",
+    "limit": "Record limit: ",
+    "download": "Download",
+    "preview": "Preview",
+    "downloadCSV": "Download CSV",
+    "domain": "Domain",
+    "description": "Description",
+    "Alert":"Alert"
+  },
+  "dashboard": {
+    "title": "City spread",
+    "SelectState": "Select State",
+    "dataLayer": "Data Layer",
+    "dataLayerOpt1": "Border pbt",
+    "message": "Please register as a MUO user to view this function",
+    "News":"News"
+  },
+  "theme": {
+    "SubTheme": "Sub Theme",
+    "LinktheSDGs": "Link the SDGs"
+  },
+  "insightsDetatil": {
+    "information": "Information",
+    "theme": "Theme",
+    "subtheme": "Subtheme",
+    "state": "State",
+    "themeselect": "Please Select a Theme",
+    "stateselect": "Please Select a State",
+    "nodata": "No Data Found",
+    "search": "Search..."
+  },
+  "copyRight": {
+    "text": "© Copyright ",
+    "PLANMalaysia": "2023 PLANMalaysia"
+  },
+  "rAndD": {
+    "title": "Research and Development",
+    "popupTitle": "Request access of ",
+    "popupDesc": "Once your request is approved, you will receive the details via email.",
+    "access": "Access",
+    "submit": "Submit",
+    "submitSuccess": "Successfully requested access. Once your request is approved, you will receive the details via email.",
+    "submitFailure": "Unable to request access. Please try again"
+  }
+}

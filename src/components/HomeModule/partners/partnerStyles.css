@@ -1,0 +1,61 @@
+.clients .clients-slider .swiper-slide img {
+    opacity: 0.5;
+    transition: 0.3s;
+  }
+  
+  .clients .clients-slider .swiper-slide img:hover {
+    opacity: 1;
+  }
+  
+  .clients .clients-slider .swiper-pagination {
+    margin-top: 20px;
+    position: relative;
+  }
+  
+  .clients .clients-slider .swiper-pagination .swiper-pagination-bullet {
+    width: 12px;
+    height: 12px;
+    background-color: #fff;
+    opacity: 1;
+    border: 1px solid #4154f1;
+  }
+  
+  .clients .clients-slider .swiper-pagination .swiper-pagination-bullet-active {
+    background-color: #4154f1;
+  }
+  .credit {
+    flex: 1;
+    display: flex;
+    /* background-color: blue; */
+    justify-content: center;
+  }
+
+  .credit-swiper {
+    /* background-color: black; */
+    margin: 0;
+    padding: 0;
+    width: 60%;
+  }
+
+  .credit .credit-slider {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    /* background-color: grey; */
+    column-gap: 0;
+  }
+
+  .credit .credit-slider img {
+    width: 90%;
+    aspect-ratio: 2/1;
+    object-fit: contain;
+    /* background-color: yellow; */
+    opacity: 0.7;
+    transition: 0.3s;
+  }
+
+  .credit .credit-slider img:hover {
+    opacity: 1;
+  }
+  
+  

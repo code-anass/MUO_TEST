@@ -1,0 +1,174 @@
+* {
+    box-sizing: border-box;
+}
+
+.title {
+    font-size: 60px;
+    padding: 20px 0px;
+}
+
+.white {
+    color: #fff;
+}
+
+/* Float three columns side by side */
+.column {
+    float: left;
+    width: 25%;
+    padding: 0px;
+    height: 500px;
+}
+
+/* Remove extra left and right margins, due to padding */
+.row {
+    margin: 0 px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Responsive columns */
+@media screen and (max-width: 700px) {
+
+    .container {
+        width: 100%;
+    }
+
+
+}
+
+/* Style the counter cards */
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 0px;
+    text-align: center;
+    height: 500px;
+    background-color: #fff;
+    border-radius: 0px;
+    cursor: pointer;
+}
+
+.card .profile {
+    border-radius: 0px;
+    transition: 0.2s;
+    /* scale: 1; */
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.card:hover .profile {
+    transform: scale(1.5);
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+}
+
+.card .content {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    ;
+    overflow: hidden;
+}
+
+.card .content .back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(rgba(29, 41, 88, 0.5), rgba(29, 41, 88));
+    transition: 1s;
+
+    z-index: 1;
+    padding: 10px;
+}
+
+/* .from-left{
+top:0;
+left:-100%;
+}
+.card:hover .content .from-left {
+left:0%;
+} */
+
+.from-bottom {
+    top: 90%;
+    left: 0;
+}
+
+.from-bottom h2 {
+    font-size: 25px;
+
+}
+
+.card:hover .content .from-bottom {
+    top: 10%;
+}
+
+/* 
+.from-right{
+top:0%;
+right:-100%;
+}
+.card:hover .content .from-right {
+right:0;
+} */
+
+.card .content .back h3 {
+    font-size: 15px;
+    letter-spacing: 2px;
+    color: #fff;
+}
+
+.card .content .back .tem-img {
+    border-radius: 100%;
+}
+
+.card .content .back .des {
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    padding: 20px 0px;
+    color: #fff;
+    line-height: 1.8;
+}
+
+.card .content .back .social-icon {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.card .content .back .social-icon li {
+    display: inline-block;
+}
+
+.card .content .back .social-icon li a {
+    display: block;
+    background: #333;
+    color: #fff;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 100%;
+}
+
+.col-lg-3 {
+    flex: 0 0 auto;
+
+}
+
+.p-0 {
+    padding: 0 !important;
+
+}
+.item {
+    flex: 0 0 auto;
+    padding: 0 !important;
+}
